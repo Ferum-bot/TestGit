@@ -11,3 +11,6 @@ if n % 2 == 0:
     print('i love you')
 else:
     print('go fuck')
+
+
+print('good day bro')
