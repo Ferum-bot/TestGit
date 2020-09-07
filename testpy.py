@@ -14,3 +14,15 @@ else:
 
 
 print('good day bro')
+
+
+# this is more test file lol
+
+b = []
+
+for i in range(n):
+    b.append(2 * i + 1)
+    
+for el in b:
+    print(el)
+    
